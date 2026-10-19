@@ -1,12 +1,10 @@
-<section >
-            <div >
+
+      
                 <h2>AI-Enhanced Full Stack Development</h2>
                 <p>Learn the latest technologies and frameworks in web development, with a focus on AI integration</p>
-            </div>
+       
           
-        </section>
 
-        <section >
             <h2 >Welcome to the Software Engineering Bootcamp</h2>
             <p >This OER bootcamp course provides instruction in full stack web application
                 development using modern JavaScript technologies. Students design, implement, and deploy web based
