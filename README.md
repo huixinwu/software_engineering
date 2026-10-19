@@ -1,6 +1,4 @@
-<h2>AI-Enhanced Full Stack Development</h2>
-<p>Learn the latest technologies and frameworks in web development, with a focus on AI integration</p>
-<h2 >Welcome to the Software Engineering Bootcamp</h2>
+<h2 >Welcome to the Software Engineering AI-Enhanced Full Stack Development Bootcamp OER course</h2>
 <p >This OER bootcamp course provides instruction in full stack web application
 development using modern JavaScript technologies. Students design, implement, and deploy web based
 solutions while applying AI assisted development tools in an ethical and effective manner. The
